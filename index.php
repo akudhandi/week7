@@ -52,7 +52,7 @@ $conn->close();
             --warning: #f72585;
             --light: #f8f9fa;
             --dark: #212529;
-            --gray: #6c757d;
+            -1-gray: #6c757d;
             --border: #dee2e6;
         }
         
@@ -67,8 +67,7 @@ $conn->close();
             background-color: #f0f2f5;
             color: var(--dark);
             line-height: 1.6;
-        }
-        
+        }        
         .container {
             max-width: 1200px;
             margin: 0 auto;
